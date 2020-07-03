@@ -30,9 +30,13 @@ Rata-rata orang di dataset ini punya BMI 30.66 dimana artinya, orang-orang di da
 
 ![GitHub Logo](/images/4.png)
 
+Dapat dilihat semakin besar umur seseorang, semakin besar juga biaya medisnya. Namun memang, kalau dilihat dari garis regresinya, gradiennya tidak terlalu besar. 
+
 ![GitHub Logo](/images/6.png)
 
 ![GitHub Logo](/images/7.png)
+
+Terlihat bahwa orang-orang yang tidak merokok memiliki biaya medis lebih sedikit daripada orang yang tidak merokok. Dan juga biaya medis orang yang merokok  lebih bervariasi daripada orang yang tidak merokok. Seakan menunjukkan orang-orang yang merokok perawatannya atau penyakitnya lebih bervariasi.
 
 ### AutoML
 
