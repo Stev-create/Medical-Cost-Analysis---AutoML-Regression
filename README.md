@@ -37,6 +37,8 @@ Dapat dilihat semakin besar umur seseorang, semakin besar juga biaya medisnya. N
 
 ![GitHub Logo](/images/6.png)
 
+Sepertinya, tidak terlihat adanya yang signifikan antara tiga fitur (umur, bmi, dan biaya) ini. 
+
 ![GitHub Logo](/images/7.png)
 
 Terlihat bahwa orang-orang yang tidak merokok memiliki biaya medis lebih sedikit daripada orang yang tidak merokok. Dan juga biaya medis orang yang merokok  lebih bervariasi daripada orang yang tidak merokok. Seakan menunjukkan orang-orang yang merokok perawatannya atau penyakitnya lebih bervariasi.
