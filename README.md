@@ -46,6 +46,7 @@ Terlihat bahwa orang-orang yang tidak merokok memiliki biaya medis lebih sedikit
 AutoML ini menggunakan Tree-based Pipeline Optimization Tool (TPOT) selama dua puluh menit, dimana model yang didapat adalah <b>AdaBoostRegressor</b>
 
 ![GitHub Logo](/images/8.png)
+source : http://epistasislab.github.io/tpot/
 
 ![GitHub Logo](/images/9.png)
 
