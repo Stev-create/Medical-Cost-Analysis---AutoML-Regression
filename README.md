@@ -9,3 +9,17 @@ Project ini menggunakan Tree-based Pipeline Optimization Tool (TPOT) selama dua 
 ## Results
 
 
+![GitHub Logo](/images/1.png)
+
+![GitHub Logo](/images/2.png)
+
+![GitHub Logo](/images/3.png)
+
+![GitHub Logo](/images/4.png)
+
+![GitHub Logo](/images/6.png)
+
+![GitHub Logo](/images/8.png)
+
+![GitHub Logo](/images/9.png)
+
