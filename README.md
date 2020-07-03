@@ -11,8 +11,6 @@ Project ini menggunakan Tree-based Pipeline Optimization Tool (TPOT) selama dua 
 
 ![GitHub Logo](/images/1.png)
 
-![GitHub Logo](/images/2.png)
-
 Menurut WHO, terdapat enam klasifikasi jika kita membicarakan BMI yaitu:
 
     Underweight jika BMI < 18.5
@@ -24,10 +22,11 @@ Menurut WHO, terdapat enam klasifikasi jika kita membicarakan BMI yaitu:
 
 Source : https://en.wikipedia.org/wiki/Classification_of_obesity#cite_note-16
 
+![GitHub Logo](/images/2.png)
 
 ![GitHub Logo](/images/3.png)
 
-Rata-rata orang di dataset ini punya BMI 30.66 dimana artinya, orang-orang di dataset ini kebanyakan masuk dalam kategori obesitas. 
+Rata-rata orang di dataset ini punya BMI 30.66 dimana artinya, orang-orang di dataset ini rata-rata masuk dalam kategori obesitas. 
 
 ![GitHub Logo](/images/4.png)
 
