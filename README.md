@@ -12,7 +12,7 @@ Project ini menggunakan Tree-based Pipeline Optimization Tool (TPOT) selama dua 
 
 ![GitHub Logo](/images/1.png)
 
-Charges adalah target pada dataset ini, tidak terlihat highly-imbalanced. 
+Charges adalah target pada dataset ini dan distribusinya memang sedikit imbalanced, namun menurut saya belum masuk kategori <i>highly-imbalanced</i>.
 
 Menurut WHO, terdapat enam klasifikasi jika kita membicarakan BMI yaitu:
 
