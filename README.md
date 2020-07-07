@@ -39,17 +39,17 @@ Rata-rata orang di dataset ini punya BMI 30.66. Maka ini bisa jadi kabar buruk, 
 
 ![GitHub Logo](/images/3.png)
 
-Terlihat bahwa garisnya menunjukkan korelasi yang positif antara fitur BMI dengan biaya medisnya. Namun ini tidaklah mengherankan mengingat bahwa semakin besar BMI-nya, semakin besar juga resiko dia mengalami penyakit-penyakit yang perawatannya tidak murah. Dikutip dari https://www.nhlbi.nih.gov/health/educational/lose_wt/risk.htm
+Terlihat bahwa garisnya menunjukkan korelasi yang positif (matriks korelasi dapat dilihat di notebook ini) antara fitur BMI dengan biaya medisnya. Namun ini tidaklah mengherankan mengingat bahwa semakin besar BMI-nya, semakin besar juga resiko dia mengalami penyakit-penyakit yang perawatannya tidak murah. Dikutip dari https://www.nhlbi.nih.gov/health/educational/lose_wt/risk.htm
 
 > The higher your BMI, the higher your risk for certain diseases such as heart disease, high blood pressure, type 2 diabetes, gallstones, breathing problems, and certain cancers. 
 
 ![GitHub Logo](/images/4.png)
 
-Grafik di atas sangat masuk akal, semakin besar umur seseorang, semakin besar juga biaya medisnya. Namun memang, kalau dilihat dari garis regresinya, gradiennya tidak terlalu besar. 
+Grafik di atas sangat masuk akal, semakin besar umur seseorang, semakin besar juga biaya medisnya. Karena memang, saat orang yang berumur tua terjangkit suatu penyakit, perawatanya pasti tidak semurah anak-anak muda yang masih kuat secara fisik. Namun memang, kalau dilihat dari garis regresinya, gradiennya tidak terlalu besar. 
 
 ![GitHub Logo](/images/6.png)
 
-Sepertinya, tidak terlihat adanya yang signifikan antara tiga fitur (umur, bmi, dan biaya) ini. 
+Sepertinya, tidak terlihat adanya yang signifikan antara ke tiga fitur (umur, bmi, dan biaya) saat digabungkan. 
 
 ![GitHub Logo](/images/7.png)
 
