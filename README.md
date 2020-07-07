@@ -22,7 +22,7 @@ Distribusi target menunjukkan distribusi yang <b>skew-positive</b>, namun menuru
 
 ![GitHub Logo](/images/10.png)
 
-Dari visualisasi di atas menunjukkan bahwa di dataset ini kebanyakan adalah anak-anak muda. Tapi bagaimana dengan BMInya? Sebelum, kita melihat distribusinya, ada baiknya saya merujuk WHO. Dimana menurut WHO, terdapat enam klasifikasi jika kita membicarakan BMI yaitu:
+Dari visualisasi di atas menunjukkan bahwa di dataset ini kebanyakan adalah anak-anak muda. Tapi bagaimana dengan BMI-nya? Sebelum, kita melihat distribusinya, ada baiknya saya merujuk WHO. Dimana menurut WHO, terdapat enam klasifikasi jika kita membicarakan BMI yaitu:
 
     Underweight jika BMI < 18.5
     Normal weight jika BMI di antara 18.5 dan 24.9
@@ -53,7 +53,7 @@ Terlihat bahwa orang-orang yang bukan perokok memiliki biaya medis lebih murah d
 
 ### AutoML
 
-AutoML yang saya gunakan Tree-based Pipeline Optimization Tool (TPOT), kemudian dijalankan selama dua puluh menit dan model yang didapat adalah <b>AdaBoostRegressor</b>. TPOT bisa dibilang seperti asisten untuk data scientist, seperti yang dikutip dari https://epistasislab.github.io/tpot/using/:
+AutoML yang saya gunakan Tree-based Pipeline Optimization Tool (TPOT), kemudian dijalankan selama dua puluh menit dan model yang didapat adalah <b>AdaBoostRegressor</b>. TPOT bisa dibilang seperti asisten untuk <i>data scientist</i>, seperti yang dikutip dari https://epistasislab.github.io/tpot/using/:
 
 > TPOT is meant to be an assistant that gives you ideas on how to solve a particular machine learning problem by exploring pipeline configurations that you might have never considered, then leaves the fine-tuning to more constrained parameter tuning techniques such as grid search.
 
