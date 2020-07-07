@@ -49,12 +49,14 @@ Terlihat bahwa orang-orang yang tidak merokok memiliki biaya medis lebih sedikit
 
 ### AutoML
 
-AutoML yang saya gunakan Tree-based Pipeline Optimization Tool (TPOT) dan dijalankan selama dua puluh menit, dimana model yang didapat adalah <b>AdaBoostRegressor</b>. TPOT bisa dibilang seperti asisten untuk data scientist, seperti yang dikutip dari https://epistasislab.github.io/tpot/using/, dimana dia mengatakan: 
+AutoML yang saya gunakan Tree-based Pipeline Optimization Tool (TPOT), kemudian dijalankan selama dua puluh menit dan model yang didapat adalah <b>AdaBoostRegressor</b>. TPOT bisa dibilang seperti asisten untuk data scientist, seperti yang dikutip dari https://epistasislab.github.io/tpot/using/:
 
 > TPOT is meant to be an assistant that gives you ideas on how to solve a particular machine learning problem by exploring pipeline configurations that you might have never considered, then leaves the fine-tuning to more constrained parameter tuning techniques such as grid search.
 
 ![GitHub Logo](/images/8.png)
 source : http://epistasislab.github.io/tpot/
+
+Dan Learning Curvesnya dapat dilihat di bawah:
 
 ![GitHub Logo](/images/9.png)
 
