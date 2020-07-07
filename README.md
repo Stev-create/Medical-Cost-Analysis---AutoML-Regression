@@ -6,13 +6,17 @@
 
 Project ini menggunakan Tree-based Pipeline Optimization Tool (TPOT) selama dua puluh menit, untuk menemukan R-squared terbaik dalam memprediksi biaya medis seseorang. Dimana model terbaik yang didapat adalah <b>AdaBoostRegressor</b>. Ringkasan hasil terdapat di bawah ini, namun untuk lengkapnya dapat dilihat di [notebook ini](https://github.com/Stev-create/Medical-Cost-Analysis---AutoML-Regression/edit/master/README.md) 
 
-## Results
+## Summary
 
-### EDA
+### Bussiness Insight
+
+Memprediksi biaya medis seseorang akan sangat membantu pihak asuransi kesehatan. 
+
+### Exploratory data analysis
 
 ![GitHub Logo](/images/1.png)
 
-Charges adalah target pada dataset ini dan distribusinya memang sedikit imbalanced, namun menurut saya belum masuk kategori <i>highly-imbalanced</i>.
+Charges adalah target pada dataset ini atau biaya medisnya, dari distribusinya memang sedikit imbalanced. Namun menurut saya, masih belum masuk kategori <i>highly-imbalanced</i>.
 
 Menurut WHO, terdapat enam klasifikasi jika kita membicarakan BMI yaitu:
 
@@ -29,11 +33,11 @@ Source : https://en.wikipedia.org/wiki/Classification_of_obesity#cite_note-16
 
 ![GitHub Logo](/images/3.png)
 
-Rata-rata orang di dataset ini punya BMI 30.66 dimana artinya, orang-orang di dataset ini rata-rata masuk dalam kategori obesitas. 
+Rata-rata orang di dataset ini punya BMI 30.66. Maka ini bisa jadi kabar buruk, artinya orang-orang di dataset ini rata-rata masuk dalam kategori obesitas.
 
 ![GitHub Logo](/images/4.png)
 
-Dapat dilihat semakin besar umur seseorang, semakin besar juga biaya medisnya. Namun memang, kalau dilihat dari garis regresinya, gradiennya tidak terlalu besar. 
+Grafik di atas sangat masuk akal, semakin besar umur seseorang, semakin besar juga biaya medisnya. Namun memang, kalau dilihat dari garis regresinya, gradiennya tidak terlalu besar. 
 
 ![GitHub Logo](/images/6.png)
 
@@ -45,7 +49,9 @@ Terlihat bahwa orang-orang yang tidak merokok memiliki biaya medis lebih sedikit
 
 ### AutoML
 
-AutoML ini menggunakan Tree-based Pipeline Optimization Tool (TPOT) selama dua puluh menit, dimana model yang didapat adalah <b>AdaBoostRegressor</b>
+AutoML yang saya gunakan Tree-based Pipeline Optimization Tool (TPOT) dan dijalankan selama dua puluh menit, dimana model yang didapat adalah <b>AdaBoostRegressor</b>. TPOT bisa dibilang seperti asisten untuk data scientist, seperti yang dikutip dari https://epistasislab.github.io/tpot/using/, dimana dia mengatakan: 
+
+> TPOT is meant to be an assistant that gives you ideas on how to solve a particular machine learning problem by exploring pipeline configurations that you might have never considered, then leaves the fine-tuning to more constrained parameter tuning techniques such as grid search.
 
 ![GitHub Logo](/images/8.png)
 source : http://epistasislab.github.io/tpot/
