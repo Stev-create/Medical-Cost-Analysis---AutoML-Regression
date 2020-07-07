@@ -10,7 +10,7 @@ Project ini menggunakan Tree-based Pipeline Optimization Tool (TPOT) selama dua 
 
 ### Bussiness Insight
 
-Memprediksi biaya medis seseorang akan sangat membantu pihak asuransi. Memodelkan ini, dapat membantu pihak asuransi membuat strategi baru.  
+Kesehatan sangat penting di era ini, dan memprediksi biaya medis seseorang akan sangat membantu seseorang untuk merencanakan keuangannya. Di tambah lagi, dengan membangun sebuah model regresi untuk memprediksi biaya medis seseorang, pastinya juga akan membantu pihak asuransi untuk membuat strategi baru. 
 
 ### Exploratory data analysis
 
