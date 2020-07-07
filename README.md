@@ -20,7 +20,7 @@ Target pada dataset ini adalah biaya medis atau <i>Charges</i>. Dimana dari dist
 
 Distribusi target menunjukkan distribusi yang skew-positive, namun menurut saya, masih di luar kasus <i>highly-imbalanced</i>. Kemudian untuk distribusi umur, dapat dilihat di bawah:
 
-![GitHub Logo](/images/8.png)
+![GitHub Logo](/images/10.png)
 
 
 Dari visualisasi di atas menunjukkan bahwa di dataset ini kebanyakan adalah anak-anak muda. Tapi bagaimana dengan BMInya? Sebelum, kita melihat distribusinya, ada baiknya saya merujuk WHO. Dimana menurut WHO, terdapat enam klasifikasi jika kita membicarakan BMI yaitu:
