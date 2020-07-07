@@ -4,7 +4,7 @@
 
 ## Overview
 
-Project ini menggunakan Tree-based Pipeline Optimization Tool (TPOT) selama dua puluh menit, untuk menemukan R-squared terbaik dalam memprediksi biaya medis seseorang. Dimana model terbaik yang didapat adalah <b>AdaBoostRegressor</b>. Ringkasan hasil terdapat di bawah ini, namun untuk lengkapnya dapat dilihat di [notebook ini](https://github.com/Stev-create/Medical-Cost-Analysis---AutoML-Regression/edit/master/README.md) 
+Project ini menggunakan <b>Tree-based Pipeline Optimization Tool (TPOT) selama dua puluh menit</b>, untuk menemukan model dengan <b>R-squared</b> terbaik dalam memprediksi biaya medis seseorang. Dimana model terbaik yang didapat adalah <b>AdaBoostRegressor</b>. Ringkasan hasil terdapat di bawah ini, namun untuk lengkapnya dapat dilihat di [notebook ini](https://github.com/Stev-create/Medical-Cost-Analysis---AutoML-Regression/edit/master/README.md) 
 
 ## Summary
 
@@ -18,10 +18,9 @@ Target pada dataset ini adalah biaya medis atau <i>Charges</i>. Dimana dari dist
 
 ![GitHub Logo](/images/1.png)
 
-Distribusi target menunjukkan distribusi yang skew-positive, namun menurut saya, masih di luar kasus <i>highly-imbalanced</i>. Kemudian untuk distribusi umur, dapat dilihat di bawah:
+Distribusi target menunjukkan distribusi yang <b>skew-positive</b>, namun menurut saya, masih di luar kasus <i>highly-imbalanced</i>. Kemudian untuk distribusi umur, dapat dilihat di bawah:
 
 ![GitHub Logo](/images/10.png)
-
 
 Dari visualisasi di atas menunjukkan bahwa di dataset ini kebanyakan adalah anak-anak muda. Tapi bagaimana dengan BMInya? Sebelum, kita melihat distribusinya, ada baiknya saya merujuk WHO. Dimana menurut WHO, terdapat enam klasifikasi jika kita membicarakan BMI yaitu:
 
