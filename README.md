@@ -16,7 +16,7 @@ Memprediksi biaya medis seseorang akan sangat membantu pihak asuransi kesehatan.
 
 ![GitHub Logo](/images/1.png)
 
-Charges adalah target pada dataset ini atau biaya medisnya, dari distribusinya memang sedikit imbalanced. Namun menurut saya, masih belum masuk kategori <i>highly-imbalanced</i>.
+<i>Charges</i> adalah target pada dataset ini atau biaya medisnya, dimana dari distribusinya terlihat sedikit imbalanced. Namun menurut saya, masih belum masuk kategori <i>highly-imbalanced</i>.
 
 Menurut WHO, terdapat enam klasifikasi jika kita membicarakan BMI yaitu:
 
