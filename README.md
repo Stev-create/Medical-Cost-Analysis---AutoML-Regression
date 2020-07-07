@@ -49,7 +49,7 @@ Sepertinya, tidak terlihat adanya yang signifikan antara tiga fitur (umur, bmi, 
 
 ![GitHub Logo](/images/7.png)
 
-Terlihat bahwa orang-orang yang tidak merokok memiliki biaya medis lebih sedikit daripada orang yang tidak merokok. Dan juga biaya medis orang yang merokok  lebih bervariasi daripada orang yang tidak merokok. Seakan menunjukkan orang-orang yang merokok perawatannya atau penyakitnya lebih bervariasi.
+Terlihat bahwa orang-orang yang bukan perokok memiliki biaya medis lebih murah daripada para perokok. Kemudian juga, biaya medis para perokok lebih bervariasi daripada orang-orang yang bukan perokok. Seakan menunjukkan para perokok perawatannya atau penyakitnya lebih bervariasi.
 
 ### AutoML
 
