@@ -35,7 +35,7 @@ Source : https://en.wikipedia.org/wiki/Classification_of_obesity#cite_note-16
 
 ![GitHub Logo](/images/2.png)
 
-Rata-rata orang di dataset ini punya BMI 30.66. Maka ini bisa jadi kabar buruk, artinya orang-orang di dataset ini rata-rata masuk dalam kategori obesitas. Dan hubungan BMI dengan biaya medis dapat dilihat di bawah: 
+Rata-rata orang di dataset ini punya BMI sekitaran 30.66. Maka ini bisa jadi kabar buruk, mengingat dari klasifikasi di atas, artinya rata-rata orang-orang di dataset ini termasuk dalam kategori obesitas. Dan hubungan BMI dengan biaya medis dapat dilihat di bawah: 
 
 ![GitHub Logo](/images/3.png)
 
