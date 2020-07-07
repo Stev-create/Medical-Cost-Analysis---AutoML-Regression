@@ -22,7 +22,7 @@ Distribusi target menunjukkan distribusi yang <b>skew-positive</b>, namun menuru
 
 ![GitHub Logo](/images/10.png)
 
-Dari visualisasi di atas menunjukkan bahwa di dataset ini kebanyakan adalah anak-anak muda. Tapi bagaimana dengan BMI-nya? Sebelum, kita melihat distribusinya, ada baiknya saya merujuk WHO. Dimana menurut WHO, terdapat enam klasifikasi jika kita membicarakan BMI yaitu:
+Dari visualisasi di atas menunjukkan bahwa di dataset ini kebanyakan adalah anak-anak muda. Tapi bagaimana dengan distribusi Body Mass Index (BMI) di dataset ini? Tapi sebelum, kita melihat distribusinya, ada baiknya saya merujuk ke WHO terlebih dahulu. Dimana menurut WHO, terdapat enam klasifikasi jika kita membicarakan BMI yaitu:
 
     Underweight jika BMI < 18.5
     Normal weight jika BMI di antara 18.5 dan 24.9
@@ -43,13 +43,15 @@ Terlihat bahwa garisnya menunjukkan korelasi yang positif (matriks korelasi dapa
 
 > The higher your BMI, the higher your risk for certain diseases such as heart disease, high blood pressure, type 2 diabetes, gallstones, breathing problems, and certain cancers. 
 
+Dan visualisasi di antara fitur umur dan biaya medis dapat dilihat di bawah:
+
 ![GitHub Logo](/images/4.png)
 
-Grafik di atas sangat masuk akal, semakin besar umur seseorang, semakin besar juga biaya medisnya. Karena memang, saat orang yang berumur tua terjangkit suatu penyakit, perawatanya pasti tidak semurah anak-anak muda yang masih kuat secara fisik. Namun memang, kalau dilihat dari garis regresinya, gradiennya tidak terlalu besar. 
+Grafik di atas sangat masuk akal, semakin besar umur seseorang, semakin besar juga biaya medisnya. Karena memang, saat orang yang berumur tua terjangkit suatu penyakit, perawatanya pasti tidak semurah anak-anak muda yang masih kuat secara fisik. Namun memang, kalau dilihat dari garis regresinya, gradiennya tidak terlalu besar. Saya juga mencoba untuk memvisualkan ke tiga fitur yaitu umur, BMI, dan biaya medis:
 
 ![GitHub Logo](/images/6.png)
 
-Sepertinya, tidak terlihat adanya yang signifikan antara ke tiga fitur (umur, bmi, dan biaya) saat digabungkan. 
+Sepertinya, tidak terlihat adanya yang signifikan antara ke tiga fitur (umur, BMI, dan biaya medis) saat digabungkan. 
 
 ![GitHub Logo](/images/7.png)
 
