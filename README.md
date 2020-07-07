@@ -14,11 +14,16 @@ Kesehatan sangat penting di era ini, itu kenapa dengan membangun model regresi y
 
 ### Exploratory data analysis
 
+Target pada dataset ini adalah biaya medis atau <i>Charges</i>. Dimana dari distribusinya dapat dilihat di bawah:
+
 ![GitHub Logo](/images/1.png)
 
-<i>Charges</i> adalah target pada dataset ini atau biaya medisnya, dimana dari distribusinya terlihat sedikit imbalanced. Namun menurut saya, masih belum masuk kategori <i>highly-imbalanced</i>.
+Distribusi target menunjukkan distribusi yang skew-positive, namun menurut saya, masih di luar kasus <i>highly-imbalanced</i>. Kemudian untuk distribusi umur, dapat dilihat di bawah:
 
-Menurut WHO, terdapat enam klasifikasi jika kita membicarakan BMI yaitu:
+![GitHub Logo](/images/8.png)
+
+
+Dari visualisasi di atas menunjukkan bahwa di dataset ini kebanyakan adalah anak-anak muda. Tapi bagaimana dengan BMInya? Sebelum, kita melihat distribusinya, ada baiknya saya merujuk WHO. Dimana menurut WHO, terdapat enam klasifikasi jika kita membicarakan BMI yaitu:
 
     Underweight jika BMI < 18.5
     Normal weight jika BMI di antara 18.5 dan 24.9
