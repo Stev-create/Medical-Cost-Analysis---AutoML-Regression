@@ -35,9 +35,13 @@ Source : https://en.wikipedia.org/wiki/Classification_of_obesity#cite_note-16
 
 ![GitHub Logo](/images/2.png)
 
+Rata-rata orang di dataset ini punya BMI 30.66. Maka ini bisa jadi kabar buruk, artinya orang-orang di dataset ini rata-rata masuk dalam kategori obesitas. Dan hubungan BMI dengan biaya medis dapat dilihat di bawah: 
+
 ![GitHub Logo](/images/3.png)
 
-Rata-rata orang di dataset ini punya BMI 30.66. Maka ini bisa jadi kabar buruk, artinya orang-orang di dataset ini rata-rata masuk dalam kategori obesitas.
+Terlihat bahwa garisnya menunjukkan korelasi yang positif antara fitur BMI dengan biaya medisnya. Namun ini tidaklah mengherankan mengingat bahwa semakin besar BMI-nya, semakin besar juga resiko dia mengalami penyakit-penyakit yang perawatannya tidak murah. Dikutip dari https://www.nhlbi.nih.gov/health/educational/lose_wt/risk.htm
+
+> The higher your BMI, the higher your risk for certain diseases such as heart disease, high blood pressure, type 2 diabetes, gallstones, breathing problems, and certain cancers. 
 
 ![GitHub Logo](/images/4.png)
 
