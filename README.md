@@ -10,7 +10,7 @@ Project ini menggunakan Tree-based Pipeline Optimization Tool (TPOT) selama dua 
 
 ### Bussiness Insight
 
-Kesehatan sangat penting di era ini, dan memprediksi biaya medis seseorang akan sangat membantu seseorang untuk merencanakan keuangannya. Di tambah lagi, dengan membangun sebuah model regresi untuk memprediksi biaya medis seseorang, pastinya juga akan membantu pihak asuransi untuk membuat strategi baru. 
+Kesehatan sangat penting di era ini, itu kenapa dengan membangun model regresi yang dapat memprediksi biaya medis seseorang, akan sangat membantu seseorang untuk merencanakan uangnya atau setidaknya, membuat seseorang sadar berapa besar kisarannya jika dia tidak menjaga kesehatannya. Tentu aja, model ini juga akan dapat membantu pihak asuransi untuk merencanakan strategi yang tepat dalam melihat setiap nasabahnya. 
 
 ### Exploratory data analysis
 
