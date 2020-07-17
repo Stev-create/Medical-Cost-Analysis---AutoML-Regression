@@ -16,11 +16,11 @@ Kesehatan sangat penting di era ini, itu kenapa dengan membangun model regresi y
 
 Target pada dataset ini adalah biaya medis atau <i>Charges</i>. Dimana dari distribusinya dapat dilihat di bawah:
 
-![GitHub Logo](/images/1.png)
+![GitHub Logo](/images/a.png)
 
 Distribusi target menunjukkan distribusi yang <b>skew-positive</b>, namun menurut saya, masih di luar kasus <i>highly-imbalanced</i>. Kemudian untuk distribusi umur, dapat dilihat di bawah:
 
-![GitHub Logo](/images/10.png)
+![GitHub Logo](/images/b.png)
 
 Dari visualisasi di atas menunjukkan bahwa di dataset ini kebanyakan adalah anak-anak muda. Tapi bagaimana dengan distribusi Body Mass Index (BMI) di dataset ini? Tapi sebelum, kita melihat distribusinya, ada baiknya saya merujuk ke WHO terlebih dahulu. Dimana menurut WHO, terdapat enam klasifikasi jika kita membicarakan BMI yaitu:
 
@@ -33,11 +33,11 @@ Dari visualisasi di atas menunjukkan bahwa di dataset ini kebanyakan adalah anak
 
 Source : https://en.wikipedia.org/wiki/Classification_of_obesity#cite_note-16
 
-![GitHub Logo](/images/2.png)
+![GitHub Logo](/images/c.png)
 
 Rata-rata orang di dataset ini punya BMI sekitaran 30.66. Maka ini bisa jadi kabar buruk, mengingat dari klasifikasi di atas, artinya rata-rata orang-orang di dataset ini termasuk dalam kategori obesitas. Dan hubungan BMI dengan biaya medis dapat dilihat di bawah: 
 
-![GitHub Logo](/images/3.png)
+![GitHub Logo](/images/d.png)
 
 Terlihat bahwa garisnya menunjukkan korelasi yang positif (matriks korelasi dapat dilihat di notebook ini) antara fitur BMI dengan biaya medisnya. Namun ini tidaklah mengherankan mengingat bahwa semakin besar BMI-nya, semakin besar juga resiko dia mengalami penyakit-penyakit yang perawatannya tidak murah. Dikutip dari https://www.nhlbi.nih.gov/health/educational/lose_wt/risk.htm
 
@@ -45,15 +45,15 @@ Terlihat bahwa garisnya menunjukkan korelasi yang positif (matriks korelasi dapa
 
 Dan visualisasi di antara fitur umur dan biaya medis dapat dilihat di bawah:
 
-![GitHub Logo](/images/4.png)
+![GitHub Logo](/images/e.png)
 
 Grafik di atas sangat masuk akal, semakin besar umur seseorang, semakin besar juga biaya medisnya. Karena memang, saat orang yang berumur tua terjangkit suatu penyakit, perawatanya pasti tidak semurah anak-anak muda yang masih kuat secara fisik. Namun memang, kalau dilihat dari garis regresinya, gradiennya tidak terlalu besar. Saya juga mencoba untuk memvisualkan ke tiga fitur yaitu umur, BMI, dan biaya medis:
 
-![GitHub Logo](/images/6.png)
+![GitHub Logo](/images/f.png)
 
 Sepertinya, tidak terlihat adanya yang signifikan antara ke tiga fitur (umur, BMI, dan biaya medis) saat digabungkan. 
 
-![GitHub Logo](/images/7.png)
+![GitHub Logo](/images/g.png)
 
 Terlihat bahwa orang-orang yang bukan perokok memiliki biaya medis lebih murah daripada para perokok. Kemudian juga, biaya medis para perokok lebih bervariasi daripada orang-orang yang bukan perokok. Seakan menunjukkan para perokok perawatannya atau penyakitnya lebih bervariasi.
 
