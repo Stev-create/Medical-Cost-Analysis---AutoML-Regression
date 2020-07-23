@@ -70,3 +70,5 @@ Dan Learning Curvesnya dapat dilihat di bawah:
 
 ![GitHub Logo](/images/9.png)
 
+# Thank you
+
