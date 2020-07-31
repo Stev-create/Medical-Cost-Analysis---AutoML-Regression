@@ -4,7 +4,7 @@
 
 ## Overview
 
-Project ini menggunakan <b>Tree-based Pipeline Optimization Tool (TPOT) selama dua puluh menit</b>, untuk menemukan model dengan <b>R-squared</b> terbaik dalam memprediksi biaya medis seseorang. Dimana model terbaik yang didapat adalah <b>AdaBoostRegressor</b>. Ringkasan hasil terdapat di bawah ini, namun untuk lengkapnya dapat dilihat di [notebook ini](https://github.com/Stev-create/Medical-Cost-Analysis---AutoML-Regression/edit/master/README.md) 
+Project ini menggunakan <b>Tree-based Pipeline Optimization Tool (TPOT) selama dua puluh menit</b>, untuk menemukan model regresi dengan <b>R-squared</b> terbaik dalam memprediksi biaya medis seseorang. Dimana model terbaik yang didapat adalah <b>AdaBoostRegressor</b>. Ringkasan hasil terdapat di bawah ini, namun untuk lengkapnya dapat dilihat di [notebook ini](https://github.com/Stev-create/Medical-Cost-Analysis---AutoML-Regression/edit/master/README.md) 
 
 ## Summary
 
