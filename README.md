@@ -12,7 +12,7 @@ Project ini menggunakan <b>Tree-based Pipeline Optimization Tool (TPOT) selama d
 
 Kesehatan sangat penting di era ini, itu kenapa dengan membangun model regresi yang dapat memprediksi biaya medis seseorang, akan sangat membantu seseorang untuk merencanakan uangnya atau setidaknya, membuat seseorang sadar berapa besar kisarannya jika dia tidak menjaga kesehatannya. Tentu aja, model ini juga akan dapat membantu pihak asuransi untuk merencanakan strategi yang tepat dalam melihat setiap nasabahnya. 
 
-### Exploratory data analysis
+### Exploratory Data Analysis
 
 Target pada dataset ini adalah biaya medis atau <i>Charges</i>. Dimana dari distribusinya dapat dilihat di bawah:
 
